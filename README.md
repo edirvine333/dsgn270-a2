@@ -1,6 +1,6 @@
 # DSGN 270 - ASSIGNMENT 2 - OPEN ASSET HUNT
 
-Repository Link: [dsgn270-a2]()  
+Repository Link: [dsgn270-a2](https://github.com/edirvine333/dsgn270-a2)    
 Repository Owner: Ed Irvine   
 Repository Maintainer: Ed Irvine  
 
